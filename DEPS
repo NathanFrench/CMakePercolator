@@ -1,0 +1,2 @@
+libevent
+libldns
